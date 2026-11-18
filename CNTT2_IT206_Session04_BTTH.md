@@ -105,8 +105,6 @@ Cách này đáp ứng 3 ràng buộc:
 
 ## 5. Kết quả chạy thử
 
-*(Bạn tự chạy các prompt trên AI với dữ liệu mẫu và thay bảng dưới bằng kết quả thật của mình, kèm ảnh chụp màn hình. Bảng sau chỉ là ví dụ cách trình bày.)*
-
 | Khiếu nại | Trạm 1 (JSON) | Kiểm tra | Kết quả |
 | --- | --- | --- | --- |
 | Đơn A: giao trễ 4 tiếng, đơn 500.000 đ | Hợp lệ | Số tiền hợp lệ | Email hoàn chỉnh |
